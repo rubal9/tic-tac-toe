@@ -11,7 +11,8 @@
         while (count < 16)
             {
                 flag = 0;
-                //system("clear");
+                system("clear");
+				system("clear 1");
                 printf("\n\n");
                 printf("\t\t\t  %c | %c  | %c  | %c   \n", data[0], data[1], data[2], data[3]);
                 printf("\t\t\t----+----+----+----\n");
